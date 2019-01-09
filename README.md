@@ -20,7 +20,7 @@ https://damp-reaches-78025.herokuapp.com/
 
 ### Clone the repo
 ```shell
-$ https://github.com/tinsakki/ProgrammingLanguageDetection-AI.git
+$ https://github.com/tinsakki/Stackoverflow-Language-Autotagging.git
 ```
 
 Make sure you have the following installed:
@@ -29,7 +29,7 @@ Make sure you have the following installed:
 - django
 
 
-### Resukt
+### Result
 
 <p align="center">
   <img src="https://i.postimg.cc/TYnvFks7/stack2.png" width="600px" alt="">
